@@ -7,7 +7,7 @@
 // Code Examples
 /////////////////////
 
-//showObjectLiteralNotation();
+showObjectLiteralNotation();
 //showClassKeyword();
 //showVarLetConst();
 //showExceptionHandling();
